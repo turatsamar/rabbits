@@ -1,6 +1,6 @@
 # rabbits
 
-A new Flutter project.
+Rabbits project for cost accounting
 
 ## Getting Started
 
